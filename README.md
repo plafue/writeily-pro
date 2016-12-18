@@ -1,3 +1,6 @@
+#THIS PROJECT IS NO LONGER UNDER ACTIVE DEVELOPMENT
+
+
 # Writeily Pro  [![Build Status](https://travis-ci.org/plafue/writeily-pro.svg?branch=master)](https://travis-ci.org/plafue/writeily-pro)
 The minimalist Markdown editor for Android. Download it for **free**!
 
